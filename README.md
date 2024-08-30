@@ -53,4 +53,4 @@ Adoro fazer networking e trocar ideias com outros profissionais. Se você també
 
 ---
 
-"Empreendedorismo não é só sobre inovação, mas também sobre criar conexões e aprender constantemente." 
+"Com o martelo da lógica e a talhadeira da criatividade, esculpo o impossível em código, moldando o futuro com cada linha escrita." 
